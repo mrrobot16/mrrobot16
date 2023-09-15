@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Hector's+World)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Hector <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 <!--
 **mrrobot16/mrrobot16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
