@@ -11,8 +11,6 @@
   🤿 Open water diver
   
   🥷 Brazilian Jiu-jitsu player
-
-    <!-- 🏄‍♂️ Surfer. -->
   
   🏞️ Human Experience Collector
   
@@ -27,6 +25,7 @@
 Feel free to contact me at [hector@web3dojo.com](mailto:hector@web3dojo.com)
 
 <!--
+🏄‍♂️ Surfer 
 **mrrobot16/mrrobot16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
