@@ -2,16 +2,25 @@
 <h1 align="center">Hi, I'm Hector <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
 ### A few things about me
-  🇻🇪 Born in Venezuela.
-  👨‍💻 Web developer.
-  🕸️ Passionate about building AI and web3 apps.
-  🤿 Open water diver.
-  <!-- 🏄‍♂️ Surfer. -->
-  🥷 Brazilian Jiu-jitsu player.
+  🇻🇪 Born in Venezuela
+  
+  👨‍💻 Web developer
+  
+  🕸️ Passionate about building AI and web3 apps
+  
+  🤿 Open water diver
+  
+  🥷 Brazilian Jiu-jitsu player
+
+    <!-- 🏄‍♂️ Surfer. -->
+  
   🏞️ Human Experience Collector
-  🤝 Love to meet new people.
-  🌏 Love to travel the World.
-  🤓 Like to learn about new tech.
+  
+  🤝 Love to meet new people
+  
+  🌏 Love to travel the World
+  
+  🤓 Like to learn about new tech
 
 ## 📫 How to reach me?
 
